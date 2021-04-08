@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olga
-- 👀 I’m interested in communicating with people 
+- 👀 I’m interested in communicating with people and do some code
 - 🌱 I’m currently learning JS, NodeJS...
 - 💞️ I’m looking to collaborate on making something that matters 
 - 📫 How to reach me olga.dibts@ya.ru
