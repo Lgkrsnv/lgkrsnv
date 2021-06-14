@@ -1,7 +1,7 @@
-###### 👋 Hi, I’m Olga Krasnova
+## 👋 Hi, I’m Olga Krasnova
 - 👀 I’m a web-developer
 
-###### 🛠 Here is my tech stack
+### 🛠 Here is my tech stack
 HTML5
 CSS / Bootstrap / Ant Design / Material UI, styled-components etc.
 JavaScript (ES6)
