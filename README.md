@@ -3,10 +3,10 @@
 I'm passionate about web development
 
 ### 🛠 Here is my tech stack
-- 📋 HTML5
+- 📜 HTML5
 - 🎨 CSS / Bootstrap / Ant Design / Material UI, styled-components etc.
-- JavaScript (ES6)
--  React
+- 🔧 JavaScript (ES6)
+- 🧩 React
 - 🕸 Redux / Redux-thunk / Redux Saga
 - 🗄 MongoDB / Mongoose
 - ⚙ Node.JS / Express
