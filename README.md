@@ -1,4 +1,4 @@
-######- 👋 Hi, I’m Olga Krasnova
+###### 👋 Hi, I’m Olga Krasnova
 - 👀 I’m a web-developer
 
 ###### 🛠 Here is my tech stack
