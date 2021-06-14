@@ -2,14 +2,14 @@
  I’m a web-developer
 
 ### 🛠 Here is my tech stack
-HTML5
-CSS / Bootstrap / Ant Design / Material UI, styled-components etc.
-JavaScript (ES6)
-React
-Redux / Redux-thunk / Redux Saga
-MongoDB / Mongoose
-Node.JS / Express
-REST API
+-HTML5
+-CSS / Bootstrap / Ant Design / Material UI, styled-components etc.
+-JavaScript (ES6)
+-React
+-Redux / Redux-thunk / Redux Saga
+-MongoDB / Mongoose
+-Node.JS / Express
+-REST API
 
 - 🌱 I’m currently learning TypeScript (this project was completed in 8 days by 3 authors https://github.com/hippofanty/Artnetic)
  
