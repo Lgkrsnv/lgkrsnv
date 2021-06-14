@@ -11,7 +11,7 @@
 - Node.JS / Express
 - REST API
 
-- 🌱 I’m currently learning TypeScript (this project was completed in 8 days by 3 authors https://github.com/hippofanty/Artnetic)
+- 🌱 I’m currently learning TypeScript (this project was completed in 10 days by 3 authors https://github.com/hippofanty/Artnetic)
  
 
 - 📫 How to reach me olga.dibts@ya.ru Telegram @OlgaDibts
