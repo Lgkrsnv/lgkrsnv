@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m Olga Krasnova
- I’m a web-developer
+
+I'm passionate about web development
 
 ### 🛠 Here is my tech stack
 - HTML5
