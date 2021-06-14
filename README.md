@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Olga Krasnova
-- 👀 I’m a web-developer
+ I’m a web-developer
 
 ### 🛠 Here is my tech stack
 HTML5
