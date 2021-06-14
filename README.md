@@ -3,9 +3,10 @@
 I'm passionate about web development
 
 ### 🛠 Some of my projects
+- https://github.com/hippofanty/Artnetic - platform for bringing together art people and clients looking to rent artworks
 - https://github.com/Lgkrsnv/easy-exam - service for ordering educational works.
 - https://github.com/Lgkrsnv/cocktail-party-app - web service for organizing cocktail parties
-- https://github.com/hippofanty/Artnetic - platform for bringing together art people and clients looking to rent artworks
+
 
 ### 🛠 Here is my tech stack
 - 📜 HTML5
