@@ -2,7 +2,7 @@
 
 I'm passionate about web development
 
-### 🛠 Here is my projects
+### 🛠 Here are my projects
 - 
 ### 🛠 Here is my tech stack
 - 📜 HTML5
