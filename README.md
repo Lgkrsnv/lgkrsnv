@@ -17,9 +17,11 @@ I'm passionate about web development
 - 🗄 MongoDB / Mongoose
 - ⚙ Node.JS / Express
 - 🔌 REST API
+- 👀 Handlebars templating
+- ☁️ Cloud technologies: Heroku/ MongoDB Atlas/ Cloudinary CDN
 
 - 🌱 I’m currently learning TypeScript (this project was completed in 10 days by 3 authors on TypeScript https://github.com/hippofanty/Artnetic)
- 
+- 🌱 SQL
 
 ### 📫 How to reach me 
 - olga.dibts@ya.ru 
