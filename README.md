@@ -12,6 +12,7 @@ I'm passionate about web development
 - 📜 HTML5
 - 🎨 CSS / Bootstrap / Ant Design / Material UI, styled-components etc.
 - 🔧 JavaScript (ES6)
+- 👁️ TypeScript
 - 🧩 React
 - 🕸 Redux / Redux-thunk / Redux Saga
 - 🗄 MongoDB / Mongoose
@@ -20,7 +21,6 @@ I'm passionate about web development
 - 👀 Handlebars templating
 - ☁️ Cloud technologies: Heroku/ MongoDB Atlas/ Cloudinary CDN
 
-- 🌱 I’m currently learning TypeScript (this project was completed in 10 days by 3 authors on TypeScript https://github.com/hippofanty/Artnetic)
 - 🌱 SQL
 
 ### 📫 How to reach me 
